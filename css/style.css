@@ -18,6 +18,7 @@
 }
 
 .box {
+ 
   margin: 10px;
   flex: 1;
   text-align: center
@@ -31,6 +32,7 @@
 }
 
 .box_text{
+  height: 150px;
   background-color: #A4EED6;
   margin: 10px;
   flex: 1;
